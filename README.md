@@ -1,1 +1,5 @@
-# CompressionExercises
+# Compression Algorithms
+
+## Introduction
+
+## Setup
